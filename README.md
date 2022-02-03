@@ -1,6 +1,6 @@
 # Contact Number management system 
 
-[Live Project link](https://somonsikder.github.io/contact-num-system-react-app/).
+[Live Project link](https://practical-panini-d86527.netlify.app/).
 
 ## Available Scripts
 
