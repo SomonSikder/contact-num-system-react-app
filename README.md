@@ -1,6 +1,6 @@
 # Contact Number management system 
 
-Live Project link [Create React App](https://somonsikder.github.io/contact-num-system-react-app/).
+[Live Project link](https://somonsikder.github.io/contact-num-system-react-app/).
 
 ## Available Scripts
 
