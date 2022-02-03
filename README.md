@@ -10,7 +10,7 @@ Live Project link [Create React App](https://somonsikder.github.io/contact-num-s
 * Express
 * MongoDb
 
-## Fetures
+## Features
 * Fully responsive
 * Contact adding system
 * Deleting system
